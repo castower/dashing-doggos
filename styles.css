@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Kablammo&family=Macondo&family=Noto+Color+Emoji&family=Roboto+Condensed&display=swap');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body {
+    padding: 0px;
+    margin: 0px;
+    background-image: url('./images/bones-background-medium.jpg');
+}
+
+h1 {
+    font-family: 'Kablammo', cursive;
+    background-color: #E3DAC9;
+    margin: 0;
+    padding: 30px;
+    padding-top: 10px;
+    text-align: left;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Caprasimo', cursive;
+}
+
+.names {
+    font-family: 'Macondo', cursive;
+}
+
+.doggos {
+    margin: 20px;
+    padding:10px;
+    display: flex;
+}
+
+.background {
+    padding: 20px;
+    background-color: rgba(255, 255, 255, .6);
+    width:fit-content;
+    flex: 1;
+}
+
+.dogPics {
+    display: flex;
+    text-align: center;
+}
+
+img {
+    height: 320px;
+    align-items: center;
+}
+
+.images {
+    text-transform: capitalize;
+    text-align: center;
+    justify-content: center;
+    flex:1;
+}
+
+.img1 {
+    text-align: right;
+    padding-right: 25px;
+}
+
+.friendFinder {
+    margin-right: 0px;
+    justify-content: right;
+}
+
+.img2 {
+    text-align: left;
+}
+
+button {
+    background-color: #C19A6B;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+button:hover {
+    background-color: #AF6E4D;
+}
+
+.footer {
+    text-align: right;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+    text-decoration: none; 
+}
+
+.fem_link {
+    font-size: 16px;
+    color: #7C0902;
+    font-weight: bold;
+  }
+
+.fem_link:hover{
+    color: #000000;    
+  }
+
+.fa {
+    font-size: 20px;
+    color: #7C0902;
+  }
+
+.fa:hover {
+    color: #000000;
+  }
