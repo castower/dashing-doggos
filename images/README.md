@@ -11,5 +11,5 @@ https://unsplash.com/photos/Krx-7twkVFY
 ### Background picture:
 https://unsplash.com/photos/w6elADh_jww
 
-### Bruno's Pictures pulled from the Doc.Ceo API:
+### Bruno's Pictures pulled from the Dog.Ceo API:
 https://dog.ceo/ 
